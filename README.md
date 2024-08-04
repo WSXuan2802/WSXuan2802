@@ -1,9 +1,7 @@
-AutoSizeText(
-  **Hello, I am Wong Shiao Xuan! ฅ^•ﻌ•^ฅ**,
-  style: TextStyle(fontSize: 50),
-  maxLines: 2,
-)
-<span style="font-size:50;">Text goes here</span>
+# Hey
+
+**Hello, I am Wong Shiao Xuan! ฅ^•ﻌ•^ฅ**,
+
 -`♡´-Feel free to visit my works in Instagram:
 https://www.instagram.com/xuart_00?igsh=MTZ
 
