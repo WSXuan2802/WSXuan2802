@@ -3,7 +3,7 @@ AutoSizeText(
   style: TextStyle(fontSize: 50),
   maxLines: 2,
 )
-<span style="font-size:0.5em;">Text goes here</span>
+<span style="font-size:50;">Text goes here</span>
 -`♡´-Feel free to visit my works in Instagram:
 https://www.instagram.com/xuart_00?igsh=MTZ
 
