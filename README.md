@@ -1,5 +1,5 @@
 AutoSizeText(
-  '**Hello, I am Wong Shiao Xuan! ฅ^•ﻌ•^ฅ**',
+  **Hello, I am Wong Shiao Xuan! ฅ^•ﻌ•^ฅ**,
   style: TextStyle(fontSize: 20),
   maxLines: 2,
 )
